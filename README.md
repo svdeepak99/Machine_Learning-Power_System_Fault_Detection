@@ -8,7 +8,7 @@ Developed multiple ML Classifiers using SVM, PCA, Decision Tree, Random Forest, 
 - Trained **MLP** models using a variety of activation functions and optimizers, and attained the following levels of accuracy: 73% when using linear and SGD, 98% when using relu and Adam, and 99.25% when using LeakyRelU and RMSProp.
 
 ## Files containing Code & Outputs:
-1) **SVM-Decision_Tree-Random_Forest.ipynb** - Training of **SVM**, **Decision Tree** & **Random Forest** & testing their accuracies.
-2) **PCA-Random_Forest.ipynb** - Reducing dimensions of dataset via **PCA** & achiving almost the same accuracy using **Random Forest**.
-3) **Gaussian_Mixture_Model.ipynb** - Training a **Gaussian Mixture Models (GMM)** & a performing **Grid Search** on no. of components & density threshold, to find the best parameters for the GMM accuracy.
-4) **MLP_Models_Comparision.ipynb** - Training 4 different **MLP** models & comparing thier accuracies & performances.
+1) [**SVM-Decision_Tree-Random_Forest.ipynb**](SVM-Decision_Tree-Random_Forest.ipynb) - Training of **SVM**, **Decision Tree** & **Random Forest** & testing their accuracies.
+2) [**PCA-Random_Forest.ipynb**](PCA-Random_Forest.ipynb) - Reducing dimensions of dataset via **PCA** & achiving almost the same accuracy using **Random Forest**.
+3) [**Gaussian_Mixture_Model.ipynb**](Gaussian_Mixture_Model.ipynb) - Training a **Gaussian Mixture Models (GMM)** & a performing **Grid Search** on no. of components & density threshold, to find the best parameters for the GMM accuracy.
+4) [**MLP_Models_Comparision.ipynb**](MLP_Models_Comparision.ipynb) - Training 4 different **MLP** models & comparing thier accuracies & performances.
